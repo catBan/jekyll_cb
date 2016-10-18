@@ -1,1 +1,32 @@
-　baseurl: /
+# Site settings
+name: Less Or More
+email: juency77@outlook.com
+author: catban
+url: http://catban.com
+
+baseurl: /
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: catban
+highlighter: rouge
+
+# Build settings
+markdown: kramdown
+
+FB:
+  comments :
+    provider : duoshuo
+    duoshuo:
+        short_name : catban
+    disqus :
+        short_name : catban
+    # facebook :
+    #   appid : 123
+    #   num_posts: 5
+    #   width: 580
+    #   colorscheme: light
