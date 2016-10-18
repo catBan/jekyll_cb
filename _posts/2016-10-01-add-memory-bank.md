@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "加内存条之内存背后的“故事” "
 date:   2016-10-01 22:23:01 +0800
-categories: other
-tag: other
+categories: document
+tag: document
 ---
 
 * content
