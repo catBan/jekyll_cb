@@ -4,7 +4,7 @@ email: juency77@outlook.com
 author: catban
 url: http://catban.com
 
-baseurl: /
+baseurl: ""
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
