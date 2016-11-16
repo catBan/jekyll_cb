@@ -2,8 +2,8 @@
 layout: post
 title:  "加内存条之内存背后的“故事” "
 date:   2016-10-01 22:23:01 +0800
-categories: document
-tag: document
+categories: 七八日常
+tag: 白菜炖粉条
 ---
 
 * content
