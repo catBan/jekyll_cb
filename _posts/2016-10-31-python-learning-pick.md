@@ -12,7 +12,6 @@ tag: Python
 
 
 
-``
 
 ### #1.python文件在linux下可直接运行 , 方法是在.py文件首行加上代码:
 
