@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "拓展@Response能convert的类型"
+title:  "拓展@ResponseBody能convert的类型"
 date:   2017-01-16 21:29:01 +0800
 categories: 学无止境
 tag: Enheng
