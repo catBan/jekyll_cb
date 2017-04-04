@@ -24,8 +24,5 @@ tag: Enheng
 
 说到这，真实情况是突然这么自律也是因为受影响。自己没有什么一眼就能被发现的坚持下来的好习惯，倒是总从身边朋友一个学一点。从朋友身上看到的长处感觉更具有生动性更能督促我，远比道理都懂就是做不到有效多了，大概是因为身边的朋友能产生更直接的激励吧。
 
-![whats]({{ '/styles/images/post/17040401.jpeg' | prepend: site.baseurl  }})
-<img width="200" height="350" src="/styles/images/post/17040401.jpeg">
-
 
 
